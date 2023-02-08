@@ -1,0 +1,12 @@
+.movie-container {
+    width: 400px;
+    height: 400px;
+}
+
+.movie__title {
+    margin: 0;
+}
+
+.movie__h3 {
+    margin: 0;
+}
