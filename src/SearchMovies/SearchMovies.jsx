@@ -39,7 +39,7 @@ function SearchMovies() {
 
     return (
         <div className='wrapper'>
-            <h1> The ultimate app for you best movie search! </h1>
+            <h1> The ultimate app for your best movie search! </h1>
             <input className='search__input' type="text" placeholder='Write a movie title'
             onChange={ (event) => { value = event.target.value }}/>
             <button className='search__button' onClick={ updateInputValue } > Search </button>
